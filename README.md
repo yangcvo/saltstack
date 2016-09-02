@@ -6,7 +6,7 @@
 ansible差不多是基于ssh封装的 slat是要安装agent,然后通宵是zeromq实现的
 
 
-# ## 引言:自动化运维 
+### 引言:自动化运维 
 ### 1:saltstack 的基本介绍 
 ### 2:salt 的安装
 * 服务端 
